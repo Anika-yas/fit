@@ -11,9 +11,7 @@ body {
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-    background-color: #E2E2E2;
 }
-
 .header{
     background: url(../img/header.jpg) 0 60px/ cover no-repeat;
 }
